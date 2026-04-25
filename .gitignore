@@ -1,0 +1,34 @@
+# Dependências
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Arquivos de build
+dist
+dist-ssr
+build
+.vite
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*.vim
+.DS_Store
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Arquivos do sistema
+.DS_Store
+.env.*.local
