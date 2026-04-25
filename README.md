@@ -2,7 +2,7 @@
 
 Portfólio moderno, responsivo e profissional de **Rodrigo Castro de Abreu** - estudante de **Engenharia da Computação** (10º período - FAMETRO) especializado em desenvolvimento web, criação de jogos, automações e inovação tecnológica.
 
-**[Acessar Portfólio Online](https://rodrigocastroabreu.github.io/rodrigo-abreu-portfolio/)**
+**[Acessar Portfólio Online](https://rodrigo-abreu-portfolio-profissiona.vercel.app/)**
 
 ---
 
