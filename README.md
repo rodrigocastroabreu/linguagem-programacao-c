@@ -63,5 +63,3 @@ Protótipo com Arduino Uno R3, sensor PIR e relé SPDT para automação residenc
 ---
 
 **Desenvolvido com ❤️ por Rodrigo Abreu**
-
-Inspiração: Padrões de design moderno, best practices em React e desenvolvimento web profissional.
