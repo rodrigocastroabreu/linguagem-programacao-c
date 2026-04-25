@@ -8,17 +8,8 @@ Portfólio moderno, responsivo e profissional de **Rodrigo Castro de Abreu** - e
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções práticas e eficientes usando as melhores práticas de programação. Tenho experiência em:
+Sou um desenvolvedor apaixonado por criar soluções práticas e eficientes usando as melhores práticas de programação.
 
-- **Desenvolvimento Web** - HTML5, CSS3, JavaScript, React
-- **Criação de Jogos** - JavaScript, TypeScript, Game Design
-- **Automações** - Batch Scripts, n8n, Arduino
-- **Banco de Dados** - SQL, APIs REST
-- **Linux & DevOps** - Ambientes de desenvolvimento
-
-**Status Profissional**: Disponível para **Estágio Curricular II**
-
----
 
 ## 📌 Projetos em Destaque
 
