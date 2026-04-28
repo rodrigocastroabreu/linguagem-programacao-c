@@ -19,9 +19,15 @@ Jogo de plataforma 2D com sprites customizados, power-ups e sistema de pontuaç�
 - **Links**: [Jogar Online](https://fan-game-super-sonic.vercel.app/) | [Código](https://github.com/rodrigocastroabreu/Fan_Game_SuperSonic)
 
 ### 🎓 TCC - Plataforma Web Gamificada Interativa
-Plataforma completa para aprender desenvolvimento de jogos digitais de forma interativa e prática.
-- **Tecnologias**: HTML5, CSS3, JavaScript
-- **Links**: [Acessar](https://trabalho-tcc-pi.vercel.app/) | [Código](https://github.com/rodrigocastroabreu/TRABALHO-TCC)
+Plataforma educativa com 4 jogos interativos para aprender desenvolvimento de jogos digitais.
+- **Tecnologias**: HTML5, CSS3, JavaScript ES6+, Tailwind CSS
+- **Link Local**: [Acessar Jogos](./jogos-tcc/index.html)
+- **Jogos Inclusos**:
+  - 👤 **Quem é o Jogador?** - Jogo de dedução e lógica
+  - 🎯 **Teoria dos Jogos** - Conceitos de estratégia
+  - 💼 **Mercado Competitivo** - Simulação de negócios
+  - 🧩 **Jogo de Lógica** - Quebra-cabeças e enigmas
+- **Documentação**: [Ver README do Projeto](./jogos-tcc/README.md)
 
 ### 🎮 Jogo Pulos Infinitos Web
 Jogo de corrida infinita com pulos, obstáculos e progressão contínua.
