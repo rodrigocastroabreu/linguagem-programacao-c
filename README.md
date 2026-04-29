@@ -19,13 +19,3 @@ Repositório com exemplos e exercícios de programação em C, organizados por t
 - **Sistema-Cadastro** - Projeto prático de sistema de cadastro
 
 
-```
-
-## 📝 Notas
-
-Cada pasta contém exemplos práticos e exercícios para aprender C progressivamente.
-
-## 👨‍💻 Contribuidor
-
-- **Nome:** rodrigocastrofametro
-- **Email:** rodrigocastrofametro@gmail.com
