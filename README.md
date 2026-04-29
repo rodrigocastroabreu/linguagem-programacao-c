@@ -24,3 +24,8 @@ Repositório com exemplos e exercícios de programação em C, organizados por t
 ## 📝 Notas
 
 Cada pasta contém exemplos práticos e exercícios para aprender C progressivamente.
+
+## 👨‍💻 Contribuidor
+
+- **Nome:** rodrigocastrofametro
+- **Email:** rodrigocastrofametro@gmail.com
