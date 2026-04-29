@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Portfólio Profissional de Rodrigo Abreu
 
 Portfólio moderno, responsivo e profissional de **Rodrigo Castro de Abreu** - estudante de **Engenharia da Computação** (10º período - FAMETRO) especializado em desenvolvimento web, criação de jogos, automações e inovação tecnológica.
@@ -69,3 +70,11 @@ Protótipo com Arduino Uno R3, sensor PIR e relé SPDT para automação residenc
 ---
 
 **Desenvolvido com ❤️ por Rodrigo Abreu**
+=======
+# 🚀 Exercícios de Programação em C
+
+Este repositório é para linguagem de programação C
+
+
+
+>>>>>>> f8dba01 (programa em c)
